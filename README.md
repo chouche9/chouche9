@@ -31,10 +31,6 @@ You can find me on [![LinkedIn][1.2]][1].
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/chouche9/chouche9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouche9&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/chouche9/ClassicMiniGames">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chouche9&repo=ClassicMiniGames&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -42,3 +38,7 @@ You can find me on [![LinkedIn][1.2]][1].
 <a href="https://github.com/chouche9/othello_ai_agents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chouche9&repo=othello_ai_agents&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+
+<a href="https://github.com/chouche9/chouche9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouche9&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
