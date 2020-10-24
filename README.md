@@ -1,8 +1,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Frank Chou and I'm a software developer with a strong passion for machine learing. 
-I'm from Vancouver, living in Toronto and currently a 3rd CS year student at the University of Toronto. 
+My name is Frank Chou and I'm a software developer with a strong passion for machine learning. 
+I'm from Vancouver, living in Toronto and currently a 3rd year CS student at the University of Toronto. 
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.2]][1].
